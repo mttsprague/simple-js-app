@@ -17,8 +17,8 @@
         - Pulls image and stats
 
 ## Links
-    - [My Code](https://github.com/mttsprague/simple-js-app)
-    - [Project Site]()
+- [My Code](https://github.com/mttsprague/simple-js-app)
+- [Project Site]()
 
 ## Process
 

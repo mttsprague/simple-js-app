@@ -18,7 +18,7 @@
 
 ## Links
 - [My Code](https://github.com/mttsprague/simple-js-app)
-- [Project Site]()
+- [Project Site](https://mttsprague.github.io/simple-js-app/)
 
 ## Process
 
